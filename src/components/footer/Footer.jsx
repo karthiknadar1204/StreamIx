@@ -31,16 +31,24 @@ const Footer = () => {
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
-                        <FaFacebookF />
+                        <a href="">
+                            <FaFacebookF />
+                        </a>
                     </span>
                     <span className="icon">
-                        <FaInstagram />
+                        <a href="https://www.instagram.com/karthiknadar1204/">
+                            <FaInstagram />
+                        </a>
                     </span>
                     <span className="icon">
-                        <FaTwitter />
+                        <a href="https://twitter.com/Karthikreincar1">
+                            <FaTwitter />
+                        </a>
                     </span>
                     <span className="icon">
-                        <FaLinkedin />
+                        <a href="https://www.linkedin.com/in/karthik-nadar-b2155a25b/">
+                            <FaLinkedin />
+                        </a>
                     </span>
                 </div>
             </ContentWrapper>
